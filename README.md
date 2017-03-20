@@ -1,0 +1,1 @@
+A basic implementation of the decision tree algorithm (a la CART), based on the implementation given in the text “Programming Collective Intelligence” by Toby Seagram.
